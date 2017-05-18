@@ -8,9 +8,9 @@ Chatbot που επιτρέπει στους δημότες να έχουν άμ
 
 # Technologies used :
 
-Nodejs - mongoDB
-HTML5 - CSS
-Heroku cloud platform
+Nodejs - mongoDB / 
+HTML5 - CSS / 
+Heroku cloud platform / 
 Rapid miner
 
 # A side project by :
